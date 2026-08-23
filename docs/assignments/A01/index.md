@@ -53,7 +53,7 @@ The two lug holes are coaxial and rigid, so the spring's reaction force is react
 **US Patent:** US2308505A  
 **Inventor:** Arthur J Geoffrion
 
-##### Alternative 1 — AP Watch Spring Bar (US8790004B2)
+##### Alternative 1 — Audemars Piguet Watch Spring Bar (US8790004B2)
 
 The AP watch spring bar provides the same function as the patented axially removed spring bar, however this spring bar requires no tooling to compress and disengage it, however it does require dedicated geometry in the strap to hold it in place, less parts in exchange for longer disassembly time. It would also require the entire case to be redesigned to accommodate the unique design of the retention pin.
 
