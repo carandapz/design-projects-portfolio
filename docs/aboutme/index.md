@@ -8,3 +8,5 @@ As an engineer, I aspire to see change happen, change that will bring improvemen
 
 To defend an engineering decision means being able to clearly explain why a particular solution, design choice, or approach was selected and support that decision with evidence, calculations, data, requirements, and engineering principles. I believe defending a decision is more than simply saying that I think something is the best option. I need to be able to explain my reasoning and respond to questions or alternative viewpoints. At this point, I am still developing this ability. I understand the importance of supporting my decisions with technical reasoning, but I do not believe I have completely grasped how to defend an engineering decision confidently and professionally. I expect that through my coursework and experiences, I will become better at communicating my reasoning, evaluating alternatives, and using evidence to justify my decisions. I hope that when I revisit this statement at the end of the semester, I will be able to recognize meaningful growth in this area.
 
+This assignment took me about 6 hours to complete.
+
