@@ -40,7 +40,14 @@ Where:
 
 The two lug holes are coaxial and rigid, so the spring's reaction force is reacted entirely by the case geometry rather than by elastic deformation of the lugs. This allows the equation $F=k\delta$ to describe the whole system.
 
-### c)
+### c) Photograph and Analyzation of Spring Bar
+![Whole Spring Bar](IMG_8447.jpg)
+
+*Figure 1. Outer tube: its outer diameter sets the surface the strap loop rotates around, its length sets the fixed spacing reference between the two lug holes and is what the strap actually pivots on.*
+
+![End of Spring Bar](IMG_8446.jpg)
+
+*Figure 2. Two telescoping end tips: the taper/chamfer geometry at each tip is what lets the pin self-center and "pop" into the lug hole under spring load without manual alignment, and the tip's reduced diameter and length relative to the lug hole is what defines how far it must retract before it clears the hole edge during removal.*
 
 ### d)
 **US Patent:** US2308505A  
