@@ -50,6 +50,7 @@ The two lug holes are coaxial and rigid, so the spring's reaction force is react
 *Figure 2. Two telescoping end tips: the taper/chamfer geometry at each tip is what lets the pin self-center and "pop" into the lug hole under spring load without manual alignment, and the tip's reduced diameter and length relative to the lug hole is what defines how far it must retract before it clears the hole edge during removal.*
 
 ### d)
+### i) Product patent and Alternatives
 **US Patent:** US2308505A  
 **Inventor:** Arthur J Geoffrion
 
