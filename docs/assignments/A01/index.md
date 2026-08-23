@@ -2,6 +2,20 @@
 
 ## Objective
 
+**1st GitHub portfolio**- [Alexandre Allonas](https://www.alexandre-allonas.fr/)
+Analyzing this portfolio, navigation to projects and other important tabs are easily accessible with a navigation bar clearly presented at the top of the page. Within each page there are consistent titles, headers and other forms of identification, that allow for ease of understanding. For example each project is clearly labeled and shows dates of completion and what role Allonas performed.
+Although this portfolio provides tooling used to complete the project there are no key specs regarding any of the provided projects. This leads to the projects being descriptive but not reproducible. No CAD files, wiring diagrams or codes are provided. Colleagues or others may be able to infer what to use, but cannot immediately reproduce it without having to ask for guidance.
+The portfolio mostly showcases what was built, however it doesn’t show why specific decisions were made. Many projects have a timeline stated and a description of what the project's goals are, it doesn’t however explain what tradeoffs considered, constraints encountered, or alternatives rejected. The VTOL project specifically had entry states discussing success, then another entry stating the validity of success on another run, yet provides no design iterations or failures from beforehand.
+The language  is appropriately formal and free of casual filler, reading like something you hand to an employer that showcases everything professionally. Technical terms are used appropriately without over explaining, which shows fluency rather than fluffing. On the About page there are sentences that are longer and more reflective, appropriate for the page, also very well structured and not just a list of buzzwords strung together.
+
+**2nd Portfolio**- [Casey Boykin](https://uncc.instructure.com/eportfolios/5029/home/landing-page)
+Boykin’s portfolio handles navigability well, the sidebar lists every assignment individually and sequentially. This sets the portfolio apart from others which have drop down tabs, a reader can easily locate a specific assignment in seconds just from scrolling through the sidebar. The numbering system this portfolio has also helped with finding the projects sequentially.
+On reproducibility, Boykin’s portfolio appears to go further than a typical portfolio listing out projects completed successfully. This portfolio has equations, software, and shows the process to which they used for the final results, most of the time. This alone allows for others to look at the project and easily understand what stage it took part in the grander scheme of things.
+Evidence of reasoning is where the portfolio shines, Boykin shares the process of his decision making and its consequences. The section where Boykin states the reasoning for the a design choice in a project car, is the best example for this section, the choices lied between using a rubber band to propel the car or using an Arduino with a motor attached to it. The reasoning behind it was one had a single uncontrollable variable, whereas the other had far more control over variables, however it cost more to implement. The project ultimately decided it was best to spend more, to ensure the best result. This reasoning shows what the problem was, and why the solution was chosen. It showcased the learning method and didn’t just dump the result. A professional looking to understand Boykin’s way of reasoning would be able to see that clearly.
+There are some instances where the professional tone is lost throughout the portfolio, it appears to be casual and personal, which is perfectly acceptable for a portfolio made for a class, however if this were a portfolio to be presented professionally it would need polishing. Technical vocabulary is used correctly and confidently throughout the pages, concepts such as torque, stress, free-body diagrams, 2-D, and 3-D equilibrium are used and explained such that a reader or colleague can understand. 
+
+
+
 
 ## Analyze
 
