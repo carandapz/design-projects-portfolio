@@ -27,7 +27,7 @@ The purpose of the product is to provide a compression-spring-loaded axial pin t
 
 This product has a mechanism in which its governing principle is torque equilibrium of a spring-loaded bar. The equation used in this product is Hooke's Law:
 
-$$F = k\delta$$
+F = k·δ
 
 Where:
 
