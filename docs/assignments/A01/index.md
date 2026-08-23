@@ -19,11 +19,11 @@ There are some instances where the professional tone is lost throughout the port
 
 ## Analyze
 
-###a) Product Purpose
+### a) Product Purpose
 The purpose of the product is to provide a compression-spring-loaded axial pin that spans and constrains two fixed points (the case lugs), allowing temporary axial retraction at either end for tool-assisted insertion/removal, while supporting a rotating strap (watch strap)  loop along its shaft in normal use.
 
-###b) What equation or physical principle governs its primary behavior?
-####i) Mechanism and Governing Equation
+### b) What equation or physical principle governs its primary behavior?
+#### i) Mechanism and Governing Equation
 
 This product has a mechanism in which its governing principle is torque equilibrium of a spring-loaded bar. The equation used in this product is Hooke's Law:
 
@@ -34,23 +34,24 @@ Where:
 - **F** = axial force that provides the hold
 - **k** = spring constant
 - **δ** = distance needed for the stem/bar to retract
-- **d** = stem diameter
-- **slot depth** = depth required to hold the stem in place
-####ii) System Behavior
+
+  
+#### ii) System Behavior
 
 The two lug holes are coaxial and rigid, so the spring's reaction force is reacted entirely by the case geometry rather than by elastic deformation of the lugs. This allows the equation $F=k\delta$ to describe the whole system.
 
-###c)
+### c)
 
-###d)
+### d)
 **US Patent:** US2308505A  
 **Inventor:** Arthur J Geoffrion
-#####Alternative 1 — AP Watch Spring Bar (US8790004B2)
+
+##### Alternative 1 — AP Watch Spring Bar (US8790004B2)
 
 The AP watch spring bar provides the same function as the patented axially removed spring bar, however this spring bar requires no tooling to compress and disengage it, however it does require dedicated geometry in the strap to hold it in place, less parts in exchange for longer disassembly time. It would also require the entire case to be redesigned to accommodate the unique design of the retention pin.
 
 
-#####Alternative 2 — Screw Bar/Pin
+##### Alternative 2 — Screw Bar/Pin
 Opting for a screw bar/pin often used in traditional diver watches is a different alternative. Same retention capabilities, however it would require the use of special tooling to easily swap straps out.
 
 
