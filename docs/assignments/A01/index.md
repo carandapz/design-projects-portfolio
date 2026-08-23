@@ -75,6 +75,6 @@ The classic spring bar tapers both tips symmetrically rather than fixing one tip
 **3. Documentation Standard**: For every assignment entry this semester, I will provide clear evidence of my analysis, explain and justify my design decisions using relevant engineering criteria, and present the final work in a professional format that allows another engineer to understand and evaluate my process.
 
 ## Communicate
-*See [About Me](design-projects-portfolio/docs/aboutme/index.md) for this section, as per assignment instructions.*
+*See [About Me](aboutme/index.md) for this section, as per assignment instructions.*
 
 
