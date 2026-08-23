@@ -1,0 +1,9 @@
+html,
+body,
+.md-typeset,
+.md-header,
+.md-nav,
+.md-tabs,
+.md-footer {
+    font-family: "Times New Roman", Times, serif;
+}
