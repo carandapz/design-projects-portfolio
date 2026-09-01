@@ -2,10 +2,23 @@
 
 ## Objective
 ![parameters](originaldesign.png)
+![Proposed Truss](proposeddesign)
+![FBD of Truss](fbdofforces.png)
+![FBD of Joints](jointsfbd.png)
+![Symbolically And Numerically](solved_eqs.png)
+![Cross-Sectional Area of Truss](areaofbeams.png)
+![Cross-sectional Area of Pins](areapin_fbd.png)
+![Final_Parameters](d_andlength.png)
+![Initial Shape](initialshape.png)
+![Initial Constraints](initialshapeconstraints.png)
+![Initial Shape Depth](initialshapedepth.png)
+![First Cut](firstcut.png)
+![Secondary Cut](secondarycut.png)
+![Finished Cut](finishedcut.png)
+![Pin](pinanddepth.png)
+![Mass and Properties](massandproperties.png)
 
-
-
-[Beam Truss](SolidworkParts.zip)
+[Solidworks Assembly and Parts](SolidworkParts.zip)
 
 
 ## Decide
