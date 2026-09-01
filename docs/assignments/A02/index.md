@@ -40,12 +40,12 @@ Using the same equations, I used when calculating the weight of the truss, I fir
 Equations used are 
 
 $$
-\sigma = \frac{F}{A}
+\sigma = F/A
 $$
 and 
 
 $$ 
-\frac{F}{A_min}=\frac{S_y}{S_f}
+\F/A_min=\S_y/S_f
 $$
 Along with 
 
