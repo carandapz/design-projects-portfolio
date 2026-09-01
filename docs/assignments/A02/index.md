@@ -49,15 +49,21 @@ Using the same equations, I used when calculating the weight of the truss, I fir
 
 The pictures shown above show the steps I took to create the truss. First I created the overall truss shape along with the constraints it took to get the shape fully defined in Solidworks. The second picture shows how the shape will look like extruded with no cuts. Lastly the final picture shows the thickness of the truss, which I had previously calculated but forgot to upload a picture before I deleted my notes.
 
+**Extrusion Cuts**
+
 ![First Cut](firstcut.png)
 ![Secondary Cut](secondarycut.png)
 ![Finished Cut](finishedcut.png)
 
 These next three pictures show the processes used to make the truss look less like a metal slab and more like a truss. I first started with the section in the middle, I felt like this was the most appropriate way of starting out as this would allow me to find better symmetry for the other two cuts needed. The secondary cuts were made using a combination of construction lines with defined parameters which allowed me to get similar cuts, but since I'm not proficient with Solidworks as of yet it looks off, and in all honesty, it's probably not the best way to go about making a truss.
 
+**The Pin**
+
 ![Pin](pinanddepth.png)
 
 This is the pin diameter and pin length, previously calculated, however it seems that my calculation went awry, and I ended up with an incorrect length, that did not coincide with my trusses overall thickness. Thus leaving me with pin holes not fully covered. Another thing to note are the mates, none of my mates lined up, this is again a user error from my part, not having the knowledge on how to properly use Solidworks led to many shortcomings in the final steps of this assignment.
+
+**Properties**
 
 ![Mass and Properties](massandproperties.png)
 
