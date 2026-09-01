@@ -4,7 +4,7 @@
 ![parameters](originaldesign.png)
 ![Proposed Truss](proposeddesign.png)
 ![FBD of Truss](fbdofforces.png)
-![FBD of Joints](jointsfbd.png)
+![FBD of Joints](jointfbd.png)
 ![Symbolically And Numerically](solved_eqs.png)
 ![Cross-Sectional Area of Truss](areaofbeams.png)
 ![Cross-sectional Area of Pins](areapin_fbd.png)
