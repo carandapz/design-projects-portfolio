@@ -38,14 +38,17 @@ Area of the pins was a bit more work to find, as we had to convert the values fr
 Using the same equations, I used when calculating the weight of the truss, I first found the volume, then the mass, and finally the weight.
 
 Equations used are 
+
 $$
 \sigma = \frac{F}{A}
 $$
 and 
+
 $$ 
 \frac{F}{A_min}=\frac{S_y}{S_f}
 $$
 Along with 
+
 $$
 m = \rho \cdot V
 $$
@@ -56,7 +59,8 @@ $$
 
 $$
 W = mg
-$$   
+$$ 
+
 $$
 \tau = \frac{V}{A}
 $$
