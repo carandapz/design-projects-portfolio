@@ -3,7 +3,9 @@
 ## Objective
 ![parameters](originaldesign.png)
 
-## Analyze
+
+
+[Beam Truss](A2-Truss.SLDPRT)
 
 
 ## Decide
