@@ -22,7 +22,7 @@ When looking at the given parameters, it immediately takes the shape of trapezoi
 After determining that the truss is solvable using principles from statics. I continued with finding the reaction forces of the truss, making an FBD to aid in this process. After making the FBD I quickly found the reaction forces at pins A and B. This then left me to find the internal forces.
 
 **Internal Forces/Forces at the Joints**
-![FBD of Joints](jointfbd.png)
+![FBD of Joints](jointfbds.png)
 
 I started with Joint B because it had the least amount of forces acting upon it or in other words, the least amount of unknowns. Then moved onto Joint A, by taking a moment around it I was able to determine the forces in the members AD and AE. This is when I first noticed a pattern but wasn't completely sure. After I had solved Joint C I was sure of it, the truss although mostly symmetrical had one important detail that made the Internal members alternate between compression and tension. That being the fact the the loads at C and D, although acting in opposite direction yet had the same magnitude, this meant I could've simply found Joint A, B and C and assumed the rest of the joint to be equal in magnitude but opposite in direction.
 
