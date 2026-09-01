@@ -2,7 +2,7 @@
 
 ## Objective
 ![parameters](originaldesign.png)
-![Proposed Truss](proposeddesign)
+![Proposed Truss](proposeddesign.png)
 ![FBD of Truss](fbdofforces.png)
 ![FBD of Joints](jointsfbd.png)
 ![Symbolically And Numerically](solved_eqs.png)
