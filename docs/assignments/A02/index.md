@@ -11,6 +11,7 @@ Shown in the figure above, a is, 0.4 meters, b is set at, 0.3 meters, and P is c
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
 **Actual Design of Truss**
+
 When looking at the given parameters, it immediately takes the shape of trapezoid, so my proposed design took that initial thought. However, having no supports in the middle made me wary, since most trusses incorporate some sort of internal bracing. Adding internal members is what allows us to continue with solving the truss using principles from Statics. Thus it led me to using the statically determinate equation to start off with solving the truss marking the first step taken to finding the forces. 
 
 ![Proposed Truss](proposeddesign.png)
