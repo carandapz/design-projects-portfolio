@@ -5,7 +5,7 @@
 
 
 
-[Beam Truss](A2-Truss.SLDPRT)
+[Beam Truss](SolidworkParts.zip)
 
 
 ## Decide
