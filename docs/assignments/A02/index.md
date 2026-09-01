@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-
+![parameters](massandproperties.png)
 
 ## Analyze
 
