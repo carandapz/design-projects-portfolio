@@ -8,9 +8,12 @@ For this assignment, our class was instructed to design a circular bar made of A
 We are to choose the following to design the full bar:Force, Young's Modulus. I chose the force to be equal to 500 lbf, and Young's Modulus to be 8.5 x 10^6 Psi. We were also not given a specific diameter, nor length or area. Diameter was tricky to choose but I ended up choosing a smaller diameter which was 0.25 inches or 1/4 inches.
 
 With the chosen diameter I can then find Area, and using the Deflection formula I can find an appropriate length for the bar. 
+
 ## Parametrically Designing A Circular Bar
 
 Below I show the work involved after choosing the parameter of my bar. The second picture shows the equation used for the finding of the area and length of the bar. The third and final picture shows the fully solved Area and length eqautions.
+
+
 ![Chosen Parameters](chosendiameter.png)
 ![equations](deflectionarealength.png)
 ![solved equations](equationssolved.2.png)
@@ -40,6 +43,7 @@ Before I could move onto the FEA portion of the assignment, I had to first choos
 The material I ended up using was 3004-H34, Rod (SS), with an Elastic Modulus of 9993100.096 Psi or 9.993 x 10^6 Psi. Not the closest, however this avoided me from to figure the other variables involved with adding a custom material in Solidworks.
 
 **Running the Study**
+
 To run the study there are a couple of steps needed in order to get a proper result. The first step is to set the bar on fixed geometry, normally when solving by hand we assume which side is the side that is "fixed to a wall", however with software we have to specify, and so by specifying we are then allowed to continue to the next step. That being applying the load, we can choose to apply the load horizontally or vertically, however in the picture provided to us the load is applied axially on the side of the bar. Finally we apply a mesh to the CAD bar, this mesh will allow the software to closely calculate the bars stress, deflection and much more that isn't required by the assignment to be recorded.
 
 ![Fixed Geo](fixedgeo.png)
@@ -68,7 +72,7 @@ _"Now imagine a fairly substantial pin hole on the left side of the bar. Look up
 
 Assuming the pin holes size to be d = 0.125 inches, and assuming we take the width normally used for this equation as d for the bar we get that D = 0.25 inches. Our K_t has a ratio that corresponds with d/w = d/D = 0.50 
 
-As since d/D = 0.50, K_t approaches values from 2.03 to 2.13, seeing as I could not a conclusive answer as i do not own a copy of the Machinery Handbook, nor could i find a s trustworthy source I decided that I would go with a value of 2.06 for K_t. 
+Therfore since d/D = 0.50, K_t approaches values from 2.03 to 2.13, seeing as I could not a conclusive answer as I do not own a copy of the Machinery Handbook, nor could I find a s trustworthy source I decided that I would go with a value of 2.06 for K_t. 
 
 Using this value along with the max stress of the bar (10727.822 psi), we get a peak stress value of 22099.31332 Psi.
 
