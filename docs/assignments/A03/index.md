@@ -80,4 +80,5 @@ To get a new safety factor value we use the yield strength (40,000 Psi) divided 
 Many lessons were learned, from which diameter to use, all the way to which material and how fin/coarse the mesh size should be. In doing this assignment I was able to learn how to use the FEA on Solidworks and I was also able to see how much diameter can affect the length of a bar when you are looking for a specific yield strength and/or modulus of elasticity.
 
 This assignment took me about 4 hours to complete.
+This is the file to the [CAD Bar](A3-Tensile.SLDPRT).
 
