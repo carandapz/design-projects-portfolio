@@ -54,7 +54,7 @@ S.F. = Yield Strength/ Max Stress
 
 The S.F. came out to be 3.729, almost four times as strong as it needed to be, this is clearly due to using a higher modulus of elasticity instead of the one given. In actuality the safety factor may be 2 times as strong, however I have yet to input the actual modulus of elasticity.
 
-![Max Stress](maxstress_von_mises.png])
+![Max Stress](maxstress_von_mises.png)
 ![Safety Factor](safetyfactor.png)
 
 As for the deflection in the bar, the results were also surprising, the max deflection allowed was as we recall, 0.009 inches. The max deflection via the deflection map was 0.007647 inches. As per the assignment I used the values to find the percent difference between both and with a bit of help from Desmos, I was able to determine a difference of about 16%. This is likely due again to the incorrect use of material modulus of elasticity, and maybe partly due to previous calculations done by hand, caused by rounding of numbers before the final calculation. Overall I believe this to be as close as possible, and yields proper results.
@@ -73,7 +73,7 @@ As since d/D = 0.50, K_t approaches values from 2.03 to 2.13, seeing as I could 
 Using this value along with the max stress of the bar (10727.822 psi), we get a peak stress value of 22099.31332 Psi.
 
 To get a new safety factor value we use the yield strength (40,000 Psi) divided by peak stress (22,099.3332 Psi) to get a value of 1.81. This new safety factor would not pass my previous safety factory, however this is still an acceptable saftey factor as it is nearly twice as strong.
-
+![Pin Hole](randomhole.png)
 
 ## Lessons Learned
 
