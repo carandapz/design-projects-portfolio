@@ -23,7 +23,7 @@ The first part of the design required me to figure out how big I wanted the moto
 After that I decided that it would be best to give the base a sort of square base as to make it easier to design as I'm still trying to grasp Solidworks. I wanted the motor mount to be as compact as possible (which did not work out as you shall see later) so with that I decided that making the base 32 mm was the best option 2mm of "wiggle" room. 
 
 I also drew a FBD, in order to find out the moment about point A(wall). We had to include the shaft in the drawing to show where the load will be applied. The moment came out to be 5400 N*mm.
-![unkowns](unkowns1.png)
+![unkowns](unknowns1.png)
 
 The next step for me was to find the height of the base, which for me gets confusing, so I called it the thickness (t). In order to find the thickness we had to use the following:
 
