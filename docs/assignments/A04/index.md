@@ -14,7 +14,7 @@ Above are pictures/schematics using the motor mount and motor in its desired way
 
 ## Feature 1
 
-The first part of the design required me to figure out how big I wanted the motor mount to be when mated up with the motor itself. The motor itself had a max diameter of about 27-28mm, going with the bigger value of the two will allow for better fitment, so that's what I chose. I also found the material properties for ABS as it was stated that we needed to design for the yield strength.
+The first part of the design required me to figure out how big I wanted the motor mount to be when mated up with the motor itself. The motor itself had a max diameter of about 27-28mm, going with the bigger value of the two will allow for better fitment, so that's what I chose. I also found the material properties for [ABS](https://www.google.com/url?q=https://omnexus.specialchem.com/selection-guide/acrylonitrile-butadiene-styrene-abs-plastic&sa=D&source=editors&ust=1789166405601667&usg=AOvVaw11E31dKQFaITvsHVZlP4Rw) as it was stated that we needed to design for the yield strength.
 ![MotorParameters](mparam.png)
 
 ![givenABS](givenABSprop.png)
