@@ -1,4 +1,4 @@
-# A4 – [Topic]
+# A4 – [Motor Mount]
 
 ## Objective
 For this weeks assignment, we were asked to design a motor mount for a [DC Gear Motor](https://www.omc-stepperonline.com/brushed-24v-dc-gear-motor-3-6kg-cm-46rpm-w-99-5-1-planetary-gearbox-pa28-28245800-g100), which will be attached to a rigid wall A. We are given the following parameters:
