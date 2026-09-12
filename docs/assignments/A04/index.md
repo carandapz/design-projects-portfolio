@@ -38,6 +38,8 @@ where E is the Young's Modulus for ABS.
 I soon noticed that I was missing one more variable that being the variable I or moment of inertia, rearranging the deflection equation to solve for I gave me 4608 mm^4. I used the inertia to then solve for my thickness (height), and doing so gave me a 12 mm thickness. I used the max stress equation using the relation to yield strength/safety factor, setting it equal to the other relation to max stress --> (Moment * c)/I. solving for t, gave me 10.06 mm. I saw that it was lower and came to the conclusion that it would likely be better to go with the higher value t in order to ensure a better resistance.
 **t1 is set at 12 mm.**
 
+![eqfeat1](eqfeat1.png)
+
 
 ## Feature 2
 Same deal as with Feature 1 but now attached to wall A, and  we now have a new moment to account for. The length or height of the motor came out to 74.6 mm, adding that with t1, gave me total length of 86.6 mm. In order to take the moment I again took the load and multiplied it by Length total + 18 mm from the shaft length. The moment came out to 31380 N*mm.
