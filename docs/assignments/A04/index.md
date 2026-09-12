@@ -93,7 +93,7 @@ The fully designed motor mount with the ABS properties from Solidworks.
 ![ABSprop](ABSprop.png)
 
 ## Communicate
-This assignment taught me how to manipulate equations upon equations in order to get the desired outcome. This assignment also taught me that I can't just focus on the equations I also have account for the product and how it will be iterated into the design, allowing for proper usage and ease of repair. In the future i hope to be more mindful about what it is I want the design to do, instead of just focusing on the numbers on a screen.
+This assignment taught me how to manipulate equations upon equations in order to get the desired outcome. This assignment also taught me that I can't just focus on the equations I also have account for the product and how it will be iterated into the design, allowing for proper usage and ease of repair. In the future I hope to be more mindful about what it is I want the design to do, instead of just focusing on the numbers on a screen.
 
 **This assignment took me about 6-7 hours.**
 
