@@ -42,7 +42,7 @@ For feature A, I drove it utilizing the moduli Z equation provided from A5, whic
 
 I applied tighter tolerances for the following features: C,D, and E. The reason I did this was because the T beam is supposed to fit loosely, in order to ensure that the hole is loose enough I decided that the best course of action was to make sure that when doing the manufacturing process that the hole remains capped around those dimensions. If a non critical feature like A or B were held to a tight tolerance, then the cost to produce this design would increase, because it would then take precision and time to get those easily manufactured parts to the desired tolerances. It is much more reasonable to have tolerances on parts that are going to be mating or sliding on another surface as those features determine whether or not the design can be even installed for usage.
 
-This assignment took me 10 hrs to complete. A good bit of it went to fixing my mistake from thee previous equations.(Another chunk of time was then spent pondering why my drawing displayed a different value than my part, turns out I was design the drawing in MKS instead of IPS, rookie mistake honestly.)
+This assignment took me 10 hrs to complete. A good bit of it went to fixing my mistake from the previous equations.(Another chunk of time was then spent pondering why my drawing displayed a different value than my part, turns out I was design the drawing in MKS instead of IPS, rookie mistake honestly.)
 
 This is the [download link the part shown.](part1.SLDPRT)
 This is the [link for the drawing.](Part1.2.SLDDRW)
