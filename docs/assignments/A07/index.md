@@ -19,7 +19,7 @@ The first step in running the first inner loop, was to create a static study for
 
   Once I've ran everything, I was then able to finally make a geometric design change/modification.
 
-  ## FEA LOOP #2
+## FEA LOOP #2
 
   The second loop consisted of me beefing up the structure, mostly in areas I deemed the most affected by deflection. The [second version](MESHSTUDIESCUTVERSION.SLDPRT) of my part, aimed to create more stability, reduce the deflection and reduce weight of the overall part. I achieved this by adding a second vertical support and elongating the hanger/bracket a tad bit so that the shaft that stuck out a bit was now somewhat in the line of sight for the part to now connect easily. 
 
@@ -36,7 +36,7 @@ The first step in running the first inner loop, was to create a static study for
   Again my values are all sorts of wacky, therefore running another fine mesh and still not being able to converge to less than 7%.
   Some other notable changes that were prevalent were the stress for each inner loop in this second iteration oddly increased, along with deflection, however the minimum safety factor did quite the opposite. 
 
-  ## FEA LOOP #3
+## FEA LOOP #3
 
   For the third and final iteration, I chose to round out the edges (chamfering and filleting) wherever it seemed that stress was going to cross through, at an attempt to reduce it. As seen in the image below.
 
