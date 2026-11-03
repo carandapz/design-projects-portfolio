@@ -42,6 +42,7 @@ I was then tasked with creating an assembly for the gearbox. We were only given 
 ![mates.png](mates.png)
 ![gear_bearing_mainhousing.png](gear_bearing_mainhousing.png)
 ![pinion_bearing_lid.png](pinion_bearing_lid.png)
+![sliceview.png](sliceview.png)
 
 
 Above is the progression from shaft to shell to screw hole (to secure the housing), to assembly of all the parts together.
