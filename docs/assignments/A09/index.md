@@ -41,8 +41,8 @@ Finally, the thing before the last, just required me to make frame, so I did a l
 
 I was unsure of what this part of the assignment meant, so upon further curiosity I decided to take a look at some of the work of the TAs from the previous semesters, and this is where I found that they used Ashby plots to do the engineering analysis. After doing some research, I found that Ashby plots are usually used for engineering analysis because it "simplifies the complex process of material selection". With this whole assignment being about calculating stuff for material selection, I figured that this method worked as a way to speed up the process just a teensy bit.
 
-[framedesign](framedesign.png)
-[ashbyplot](ashbyplot.png)
+![framedesign](framedesign.png)
+![ashbyplot](ashbyplot.png)
 
 
 I ended up using the rigid polymer foams as the material that could be used for my frame. This choice was made after converting the pressure of the journal bearings to MPa, 0.33555 MPa, and then multiplying it by my safety factor of 3. This gave me a strength of 1.00655 MPa, which as you can see above is in the general proximity of the material I chose. In addition to this, these materials were pretty lightweight while still being able to withstand the forces of my journal bearings. Any one of these materials should be able to do the job. 
