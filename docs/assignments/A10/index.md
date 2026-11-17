@@ -40,8 +40,24 @@ Finally I was able to plug in for all the values needed for torque.
 
 
 ### Part 2: Nut and Flange - Jason Swanchara
+![nut_and_flange](nut_and_flange.png)
+![def_height](def_height.png)
+
+Above is the work for the thread count attained with the bending stress analysis equations from the lecture slides.  Alongside the work is a FBD that was included to help visualize the acting forces that contributed to the symbolic solutions.  Using the values calculated above, a right hand bronze acme nut was chosen from McMaster that is externally threaded and satisfies our given constraints and compatibility requirements.  Due to it being externally threaded, it requires a compatible flange to be used as well.
+
 
 ### Part 3: Crosshead Design - Jason Swanchara
+
+![stress_height](stress_height.png)
+
+In order to design the crosshead, I treated it as a beam fixed on both ends with a center load P in the middle.  The load and combined reaction forces were used to solve for the height in through stress and deflection, and afterwards it was determined that deflection governed this parameter because it was the larger of the two.  A 1018 steel bar was chosen for the material because of its reliability and to combat the stronger deflection.
+
+![multiview](multiview.png)
+
+Above is the final geometry for our crosshead.  Our final height came out to 31.75 mm with a base that was a little over the minimum constraint given in the assignment.  The crosshead was drawn out with the intention of being quick and easy to model in SolidWorks, but still effective in operation and being stiff enough to limit deflection.
+
+
+
 
 ### Part 4: Cost Tabulation - Gavin Winningham
 
@@ -55,6 +71,19 @@ Finally I was able to plug in for all the values needed for torque.
 
 
 ### Part 5: Parametric Modeling - Gavin Winningham
+I first started the 3D modeling process by creating the crosshead. I started off by accounting for the lead screw diameter to ensure it would pass through the designed crosshead efficiently. I next then created bolt holes to go into the flange nut that would secure it properly as this item is to be screwed up and downwards. As depicted below, my dimensions utilized for both the hole for the lead screw as well as the bolt pattern for the flange.
+
+![crosshead](crosshead.png)
+
+I next started with the actual assembly of the entire project. I started off initially taking the crosshead and the lead screws and mating them to one another, ensuring they pass through efficiently, as well as mating the tops of the lead screws to one another so that they are aligned. After doing so, I then started to add the frame onto the edges of this project, starting with two foot-and-a-half-long T-rail frames, exactly the same length as the lead screws, as depicted below; this is the continuation of that assembly.
+
+![tframe](tframe.png)
+
+Now finally, the full assembly, including all parts of the body. I ended up trimming the frame of the original down to fit the length properly, though after doing so there was some slight overhang, though it should still function properly. But it includes everything that was accounted for in our calculations, and everything is depicted below.
+
+![fullassm](fullassm.png)
+
+
 
 ### Part 6: Lessons Learned - Carlos Aranda Perez
 
@@ -64,6 +93,9 @@ Towards the end while generating the assembly on SolidWorks, we learned how to c
 This assignment took around 14 hours to complete.
 
 Below you can find a link to all of our work and the zip file for our assembled tester. 
+
+ Download [Here!](assembly&parts.zip)
+
 
 
 
