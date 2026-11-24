@@ -108,6 +108,8 @@ This assignment really pushed the team’s limits. We learned how to apply the l
 
 Overall this assignment took us over 13+  hours to complete.
 
+The files for the CAD can be found [here](cadfiles.zip). 
+
 
 
 
