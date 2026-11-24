@@ -74,7 +74,7 @@ After concluding the simulation on the vertical components of this assembly, I n
 ## Floating Bearing Mount - Jason Swanchara
 
 
-![A11_float](A11_float.JPG)
+![A11_float](A11_float.jpg)
 
 The floating bearing mount is vital to centering the leadscrew while still enabling slight vertical motion when necessary.  Only the top is fixed and carries the load, 1 KN per screw.  The assignment requires an RC3 fit, which allows for free spinning of the screws and very little wobbling.  Assuming a quarter inch bolt, using Table 8a in the Machinery’s Handbook, clearance would be between 0.5 - 1.5 thousandths of an inch.  This small gap ensures that the journal doesn’t bind and can spin freely.  The mount would be 40 mm wide because it would need to match the rail.  For the height, I said 20 mm because that would guarantee the bush would be fully supported since it was less than that.  Finally, the length would be 80 mm so that both bolts and the bushing are able to fit in that length.  
 
