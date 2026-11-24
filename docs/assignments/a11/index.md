@@ -2,6 +2,8 @@
 
 ## Objective
 
+# Motor Selection Design 
+
 For this assignment, we are continuing with the work from last week which included the designing of a leadscrew tensile tester. This week we are in charge of selecting and adding the motor to the tester, designing a frame, and designing a floating bearing. In this assignment we also utilize FEA analysis to ensure our frame holds up. Towards the end we have provided a full bill of materials, labor cost and our entire process for the assignment. 
 
 Our team is composed of Carlos Aranda Perez, Jason Swanchara, and Gavin Winningham. 
@@ -27,7 +29,7 @@ Using an equation for deflection provided by The Machinery’s Handbook, I was a
 
 Afterwards I began the design process for the coupler. Doing the same old same old process of listing the knowns and unknowns, drawing the FBD’s. We were tasked with finding the outer diameter and thickness of the coupler, to find them we had to use shear stress torsion analysis to find the inner and outer diameter of the coupler. 
 
-Using the following equations, I solved for it algebraically then plugged and chugged. Doing so allowed me to find a thickness of 0.788.With that being said, I found that the outer diameter was 1.0795 inches, so I ended up choosing the Servomotor Precision Flexible Shaft Coupling. This coupler has ⅜” by ½” shaft diameter and an outer diameter of 1-1/16”. I chose this one because the outer diameter was extremely close to our calculated outer diameter and the inner diameter of ⅜” would nicely house our lead screws. The coupler used can be found [here](https://www.mcmaster.com/6854N105/) 
+Using the following equations, I solved for it algebraically then plugged and chugged. Doing so allowed me to find a thickness of 0.788.With that being said, I found that the outer diameter was 1.0795 inches, so I ended up choosing the Servomotor Precision Flexible Shaft Coupling. This coupler has ⅜” by ½” shaft diameter and an outer diameter of 1-1/16”. I chose this one because the outer diameter was extremely close to our calculated outer diameter and the inner diameter of ⅜” would nicely house our lead screws. The coupler used can be found [here](https://www.mcmaster.com/6854N105/).
 
 ![couplergivenandsolved.png](couplergivenandsolved.png)
 
@@ -42,19 +44,23 @@ To find suitable connectors, I used 1018 steel again to keep consistency.  Using
 I first started by creating an assembly utilizing the frame of choice as well as the design motor mount, utilizing previous calculations by my partners. I then assembled the structure depicted below and conducted a simulation, fixing the ends of the assembly and the motor mounts and applying our 2,000 newton force at the motor mount.
 
 
-![Screenshot 2026-11-23 210050.png](Screenshot 2026-11-23 210050.png)
+![Screenshot 2026-11-23 210050.png](Screenshot_2026-11-23_210050.png)
 I first started off with a coarse mesh for this analysis. After doing so, with the Von Mises stress analysis, got a peak stress of 8.757 times 10 to the seventh newtons per meter squared. After looking at the actual deflection itself and the stress concentrations, there didn't seem to be nearly as much, except for at the individual corners of the motor mounts. Moving on to the deflection, there was a significant deflection near the center of the assembly, specifically within the frame itself, with a max deflection of 1.57 times 10 to the 2 millimeters. Then utilizing the factor of safety, for this specific part, I ended up getting from the simulation a factor of safety of 4.015.
 
-![Screenshot 2026-11-23 211631.png](Screenshot 2026-11-23 211631.png)
-![Screenshot 2026-11-23 211702.png](Screenshot 2026-11-23 211702.png)
-![Screenshot 2026-11-23 212201.png](Screenshot 2026-11-23 212201.png)
+![Screenshot 2026-11-23 211631.png](Screenshot_2026-11-23_211631.png)
+![Screenshot 2026-11-23 211702.png](Screenshot_2026-11-23_211702.png)
+![Screenshot 2026-11-23 212201.png](Screenshot_2026-11-23_212201.png)
 Next, I then moved on to the medium mesh for this design, starting off with the von Mises stress. I ended up getting a peak stress concentration of 7.777 times 10 to the seventh newtons per meter squared, specifically at the same concentrations of corners within the actual assembly itself. Next was the peak deflection that this part experienced, noting similar deflection areas, specifically within the center, with a max deflection of 1.661 times 10 to the second millimeters. Moving on to the factor of safety experienced by the simulation, it ended up getting a value of 4.521.
 
 
-![Screenshot 2026-11-23 213003.png](Screenshot 2026-11-23 213003.png)
-![Screenshot 2026-11-23 213030.png](Screenshot 2026-11-23 213030.png)
-![Screenshot 2026-11-23 213128.png](Screenshot 2026-11-23 213128.png)
-Going further with the analysis of this assembly, my computer unfortunately had some issues in regards to going to the finest mesh quality. There were too many items for my computer to handle and I tried multiple ways of seeing how I could manipulate it to account for this. Unfortunately, I was not able to go to the finest mesh quality for this assignment.
+![Screenshot 2026-11-23 213003.png](Screenshot_2026-11-23_213003.png)
+![Screenshot 2026-11-23 213030.png](Screenshot_2026-11-23_213030.png)
+![Screenshot 2026-11-23 213128.png](Screenshot_2026-11-23_213128.png)
+Then, finally, fine mesh. I got a maximum stress of 1.387 times 10 to the eighth newtons per meter squared for the bottomness, with a max deflection of 1.245 times 10 to the 2 millimeters, and a factor of safety of 2.535.
+
+![Screenshot 2026-11-23 230248.png](Screenshot_2026-11-23_230248.png)
+![Screenshot 2026-11-23 230423.png](Screenshot_2026-11-23_230423.png)
+![Screenshot 2026-11-23 230730.png](Screenshot_2026-11-23_230730.png)
 ### Optimization Pass
 After fully doing this analysis on the assembly, noting the stress concentrations as well as the significant deflection in the center, the main optimizations that could be done to improve this design is adding chamfers and anything to assist with the stress concentrations at the different edges of the object itself, as well as utilizing thicker frames to account for the significant deflection at the center of the simulation. Adding more material would reduce the deflection experienced and would optimize it.
 
@@ -109,6 +115,7 @@ This assignment really pushed the team’s limits. We learned how to apply the l
 Overall this assignment took us over 13+  hours to complete.
 
 The files for the CAD can be found [here](cadfiles.zip). 
+
 
 
 
